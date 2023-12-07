@@ -1,0 +1,16 @@
+<!DOCTYPE hitml>
+<html>
+<head>
+<meta charset= "UTF-8">
+<title>MyProfile</title>
+</head>
+
+<body style= "background-color:gray;">
+<center>
+<image src="bosscurt.jpg" alt="Profile Picture" style= width="400px" height="400px">
+</center>
+<h1>All about my self</h1>
+<p> Name: Curt Castillo  <br> Age: 19 <br> Sex:Male <br>Address:Queensland village Novaliches <br> Phone Number:09100517600 <br> Sports: Basketball</p>
+
+</body>
+</html>
